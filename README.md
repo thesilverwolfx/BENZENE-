@@ -2,7 +2,7 @@
 
 BENZENE is an automated root cause analysis tool for a software crash.
 
-This repository is a prototype implementation of our IEEE S&P '24 (Oakland) [paper](https://sp2024.ieee-security.org/accepted-papers.html).
+This repository is a prototype implementation of IEEE S&P '24 (Oakland) [paper](https://sp2024.ieee-security.org/accepted-papers.html).
 
 ```
 @inproceedings{park2023benzene,
